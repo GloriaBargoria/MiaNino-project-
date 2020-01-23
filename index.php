@@ -3,7 +3,7 @@
 echo <<<_END
 <html>
 <head>
-<title>Nairobi Water Privacy Policy</title>
+<title>Nairobi City Waterand Sewerage Company Limited Privacy Policy</title>
 <style>
 body 
 {
@@ -41,7 +41,7 @@ font-size:16px;
 <body>
 <div id = "main">
 <div id="heading">
-<p>Nairobi Water and Sewerage Company Limited Privacy Policy</p>
+<p>Nairobi City Water and Sewerage Company Limited Privacy Policy</p>
 </div>
 <div id="content">
 <p id = "heads">Privacy Policy </br> last updated: January 22, 2020<p>
@@ -49,8 +49,8 @@ font-size:16px;
 <p id = "text">
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the 
 Service and tells You about Your privacy rights and how the law protects You.</br></br>
-We use Your Personal data to provide and improve the Service. By using the Service, 
-You agree to the collection and use of information in accordance with this Privacy Policy. 
+We use Your Personal data to provide and improve the Service. By providing your personal data to us, you are voluntarily consenting to this Privacy Policy and the collection, use, access, transfer, storage and processing of your personal information as described in this Policy.
+This privacy policy applies to personal information we hold about individuals. We will only use your personal information in accordance with the Constitution of Kenya 2010, laws relating to data protection and privacy in Kenya and this Privacy Policy. </br></br>
 This Privacy Policy is maintained by the Company.
 </p>
 
@@ -68,10 +68,10 @@ The following definitions shall have the same meaning regardless of whether they
 For the purposes of this Privacy Policy:</br>
 <ul>
 <li><b>You</b> means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable. </li></br>
-<li><b>Company</b> (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Nairobi Water and Sewerage Company Ltd. </li></br>
+<li><b>Company</b> (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Nairobi City Water and Sewerage Company Ltd. </li></br>
 <li><b>Affiliate</b> means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.  </li></br>
 <li><b>Account</b> means a unique account created for You to access our Service or parts of our Service.  </li></br>
-<li><b>Website</b> refers to Nairobi Water and Sewerage Company Ltd, accessible from https://www.nairobiwater.co.ke/  </li></br>
+<li><b>Website</b> refers to Nairobi City Water and Sewerage Company Ltd, accessible from https://www.nairobiwater.co.ke/  </li></br>
 <li><b>Chatbot</b> refers to Majibot which is a service built and managed by the Company. </li></br>
 <li><b>Service</b> refers to the Chatbot and/ or Website. </li></br>
 <li><b>Country</b> refers to: KENYA. </li></br>
@@ -115,21 +115,7 @@ or when You access the Service by or through a mobile device.</br>
 
 <p id = "heads1">Tracking Technologies and Cookies</p>
 <p id = "text">
-We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. 
-Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service.
-You can instruct Your browser to refuse all Cookies or to indicate when a Cookie is being sent. However, if You do not accept Cookies, You may not be able to use some parts of our Service.</br> </br>
-Cookies can be "Persistent" or "Session" Cookies. Persistent Cookies remain on your personal computer or mobile device when You go offline, while Session Cookies are deleted as soon as You close your web browser.</br></br>
-We use both session and persistent Cookies for the purposes set out below:</br>
-<ul>
-<li><b> Necessary / Essential Cookies</b></br></br>Type: Session Cookies</br> Administered by: Us</br>
-Purpose: These Cookies are essential to provide You with services available through the Chatbot and Website and to enable You to use some of its features. They help to authenticate users and prevent fraudulent use of user accounts. Without these Cookies, the services that You have asked for cannot be provided, and We only use these Cookies to provide You with those services.</li></br>
-<li><b>Cookies Policy / Notice Acceptance Cookies</b></br></br>Type: Persistent Cookes</br> Administered by: Us</br>
-Purpose: These Cookies identify if users have accepted the use of cookies on the Website and Chatbot.</li></br>
-<li><b>Functionality Cookies</b></br></br>Type: Persistent Cookies</br> Administered by: Us</br>
-Purpose: These Cookies allow us to remember choices You make when You use the Website, such as remembering your login details or language preference. The purpose of these Cookies is to provide You with a more personal experience and to avoid You having to re-enter your preferences every time You use the Website.</li></br>
-</ul>
-</br>
-For more information about the cookies we use and your choices regarding cookies, please visit our Cookies Policy.
+We do not use Cookies.
 </p>
 
 <p id = "heads1">Use of Your Personal Data</p>
@@ -189,7 +175,8 @@ The Company may disclose Your Personal Data in the good faith belief that such a
 
 <p id = "heads1">Security of Your Personal Data</p>
 <p id = "text">
-The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
+The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.</br>
+We implement a variety of security measures to maintain the safety of personal information, using encryption, limited access and passwords as appropriate.
 </p></br>
 
 <p id ="heads">Children's Privacy</p>
